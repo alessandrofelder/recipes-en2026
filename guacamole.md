@@ -1,6 +1,6 @@
 # Guacamole
 ## Ingredients
-* 3 avocados
+* avocado x 2
 * lime
 * salt
 * coriander
@@ -10,4 +10,6 @@
 * chop coriander
 * mash avocado
 * squeeze lemon
+* chop onions
+* mix all ingredients together
 A bad instruction which will ruin the food.

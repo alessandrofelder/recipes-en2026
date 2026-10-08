@@ -1,9 +1,10 @@
 # Guacamole
 ## Ingredients
-* avocado
+* 3 avocados
 * lime
 * salt
 * coriander
+* onions
 
 ## Instructions
 * chop coriander
